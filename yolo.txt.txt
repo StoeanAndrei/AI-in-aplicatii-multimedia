@@ -1,0 +1,1 @@
+python D:\Tema1AM\Stoean_Andrei_332AB\yolov5-master\detect.py --source D:\Tema1AM\Stoean_Andrei_332AB\violet_train1.png --weights yolov5s.pt --save-txt
